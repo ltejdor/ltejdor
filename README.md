@@ -20,7 +20,7 @@ Documentation lead in B2B SaaS. I build documentation from zero and turn it into
 
 ### Tools and domains
 
-Markdown · Git · GitHub · OpenAPI · Paligo · Confluence · Trados · APIs and webhooks · EU banking regulation (PSD2, DORA, GDPR)
+Markdown · Git · GitHub · Paligo · Confluence · Trados · EU banking regulation (PSD2, DORA, GDPR)
 
 ### Languages
 
