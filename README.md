@@ -6,7 +6,7 @@ Documentation lead in B2B SaaS. I build documentation from zero and turn it into
 
 ### What I do
 
-- **Build documentation from zero.** At my current company, a B2B SaaS for banks, I founded the technical writing function: information architecture, a style guide now used company-wide, and a client docs portal.
+- **Build documentation from zero.** At my current company, a B2B SaaS for banks, I founded the technical writing function from sratch: information architecture, a style guide now used company-wide, and a client-facing docs portal.
 - **Test what I document.** I run the software in a sandbox before I write a step. Where there was no test environment, I asked for one.
 - **Bridge teams and clients.** I work with Product, engineering, Sales and Support, and present product webinars to banking clients.
 - **Lead remotely.** I lead a technical writer in another location and time zone.
