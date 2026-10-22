@@ -15,7 +15,7 @@ Documentation lead in B2B SaaS. I build documentation from zero and turn it into
 
 | Repository | For | What's inside |
 |---|---|---|
-| [technical-writing-portfolio](https://github.com/ltejdor/technical-writing-portfolio) | Developers and support teams | API reference with OpenAPI, webhooks guide with a runnable example, release notes and migration guide, concept and troubleshooting pages |
+| [technical-writing-portfolio](https://github.com/ltejdor/technical-writing-portfolio) | Developers and support teams | API reference with OpenAPI, webhooks guide, an [interactive playground](https://ltejdor.github.io/technical-writing-portfolio/playground/), release notes and migration guide, concept and troubleshooting pages |
 | [product-content-portfolio](https://github.com/ltejdor/product-content-portfolio) | Business readers | The same features as a solution brief, feature page, release announcement, compliance guide and customer success playbook |
 
 ### Tools and domains
